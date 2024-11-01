@@ -1,0 +1,129 @@
+# Copyright (C) 2020 Antonio Germani - Programmisitiweb.lacasettabio.it
+# This file is distributed under the same license as the plug-in package.
+msgid ""
+msgstr ""
+"Project-Id-Version: webcam-viewer\n"
+"POT-Creation-Date: 2018-11-09 12:32+0100\n"
+"PO-Revision-Date: 2018-11-09 12:32+0100\n"
+"Last-Translator: Antonio Germani <lacasettabio@lacasettabio.it>\n"
+"Language-Team: Antonio Germani <lacasettabio@lacasettabio.it>\n"
+
+#: settings.php:
+msgid "Webcam viewer settings"
+msgstr ""
+
+#: settings.php:
+msgid "Don't forget to set the url, where the images are saved by the webcam, on the widget"
+msgstr ""
+
+#: settings.php:
+msgid "Please, before use do following settings"
+msgstr ""
+
+#: settings.php:
+msgid "Enable Caption: the date, time and text over the images"
+msgstr ""
+
+#: settings.php:
+msgid "Insert the text you want to show before the date"
+msgstr ""
+
+#: settings.php:
+msgid "Insert the text you want to show before the time"
+msgstr ""
+
+#: settings.php:
+msgid "No"
+msgstr ""
+
+#: settings.php:
+msgid "Yes"
+msgstr ""
+
+#: settings.php:
+msgid "Choose if you want to show the time after the date"
+msgstr ""
+
+#: settings.php:
+msgid "Choose if you want the time format in 12h or 24h"
+msgstr ""
+
+#: settings.php:
+msgid "Choose if you want to show the date"
+msgstr ""
+
+#: settings.php:
+msgid "Choose the date format you like to show"
+msgstr ""
+
+#: settings.php:
+msgid "Inverts the colors of text and background"
+msgstr ""
+
+#: settings.php:
+msgid "Multiple"
+msgstr ""
+
+#: settings.php:
+msgid "Single"
+msgstr ""
+
+#: settings.php:
+msgid "Rapid"
+msgstr ""
+
+#: settings.php:
+msgid "Bootstrap multiple"
+msgstr ""
+
+#: settings.php:
+msgid "Select how your webcam works for uploading the images. <br>SINGLE: set it if there is a single image with the same name always. <br>MULTIPLE: set it if there are multiple images into a folder. <br>RAPID: set it if there are multiple immages into a folder but you want to show only the last one with a rapid refresh. With this mode you can publish more modules with different webcams. <br>BOOTSTRAP: if there are multiple immages into a folder and you want to show them with a nice fade-in/out effect by Bootstrap."
+msgstr ""
+
+#: settings.php:
+msgid "Insert the url (example: webcam / frame.jpg) of the image if it is single or insert the path (example: webcam / camera9 / Frame /) if the images are multiple"
+msgstr ""
+
+#: settings.php:
+msgid "Check this option if your webcam upload the images in daily, hourly and minutely folder. This option fits for SNC-441FBIFE Burg-Wächter cam and similar."
+msgstr ""
+
+#: settings.php:
+msgid "Enter the number of images to display (max 24). The last saved images will be shown."
+msgstr ""
+
+#: settings.php:
+msgid "The time in milliseconds between one image and the next"
+msgstr ""
+
+#: settings.php:
+msgid "Set if you like a CSS image style or not"
+msgstr ""
+
+#: settings.php:
+msgid "Set after how many seconds you want an auto page refresh. Set to 0 if you don't like it. It's not settable for RAPID."
+msgstr ""
+
+#: settings.php:
+msgid "Check it if you like a fade in and fade out effect when the images are changed"
+msgstr ""
+
+#: settings.php:
+msgid "The Bootstrap mode uses the Jquery library too and that could create conflict with other component of your site. <b>This is not a bug.</b> If you are not be able to fix the conflict, please, don't use Bootstrap mode!"
+msgstr ""
+
+#: settings.php:
+msgid "Load Jquery if it is not loaded jet. Jquery is required if you select BOOTSTRAP on image type."
+msgstr ""
+
+#: settings.php:
+msgid "Bootstrap.If it's setted, the transition of the images will be by a scroll from right to left. The fade effect will be disabled."
+msgstr ""
+
+#: settings.php:
+msgid "If it's setted, you enable an auto zoom whit cursor hover the image"
+msgstr ""
+
+#: settings.php:
+msgid "If it's setted, you enable a progress indicator bar about the image"
+msgstr ""

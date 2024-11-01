@@ -1,0 +1,200 @@
+# Copyright (C) 2020 Antonio Germani - Programmisitiweb.lacasettabio.it
+# This file is distributed under the same license as the plug-in package.
+msgid ""
+msgstr ""
+"Project-Id-Version: webcam-viewer\n"
+"POT-Creation-Date: 2018-11-09 12:32+0100\n"
+"PO-Revision-Date: 2021-01-06 15:54+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Italiano\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+#: settings.php:
+msgid "Bootstrap multiple"
+msgstr "Multiple con Bootstrap"
+
+#: settings.php:
+msgid ""
+"Bootstrap.If it's setted, the transition of the images will be by a scroll "
+"from right to left. The fade effect will be disabled."
+msgstr ""
+"Bootstrap -> Se selezionato le immagini scorreranno da destra a sinistra. "
+"L'effetto dissolvenza è disabilitato."
+
+#: settings.php:
+msgid ""
+"Check it if you like a fade in and fade out effect when the images are "
+"changed"
+msgstr ""
+"Seleziona se vuoi un effetto dissolvenza in apertura e chiusura delle "
+"immagini"
+
+#: settings.php:
+msgid ""
+"Check this option if your webcam upload the images in daily, hourly and "
+"minutely folder. This option fits for SNC-441FBIFE Burg-Wächter cam and "
+"similar."
+msgstr ""
+"Seleziona questa opzione solamente se la tua webcam carica le immagini nelle "
+"cartelle dei minuti dentro alle ore e dentro ai giorni. Questa opzione serve "
+"alle webcam tipo SNC-441FBIFE Burg-Wächter o similari."
+
+#: settings.php:
+msgid "Choose if you want the time format in 12h or 24h"
+msgstr "Scegli se vuoi l'orario nel formato 12 o 24 ore"
+
+#: settings.php:
+msgid "Choose if you want to show the date"
+msgstr "Seleziona se vuoi mostrare la data"
+
+#: settings.php:
+msgid "Choose if you want to show the time after the date"
+msgstr "Seleziona se vuoi mostrare l'orario dopo la data"
+
+#: settings.php:
+msgid "Choose the date format you like to show"
+msgstr "Seleziona il formato della data da mostrare"
+
+#: settings.php:
+msgid ""
+"Don't forget to set the url, where the images are saved by the webcam, on "
+"the widget"
+msgstr ""
+"Non dimenticare di inserire l'url dove la webcam salva le immagini nel "
+"widget!"
+
+#: settings.php:
+msgid "Enable Caption: the date, time and text over the images"
+msgstr "Abilita la sovraimpressione della data, ora e testo sulle immagini"
+
+#: settings.php:
+msgid ""
+"Enter the number of images to display (max 24). The last saved images will "
+"be shown."
+msgstr ""
+"Inserisci il numero delle immagini da mostrare, al massimo 24. Saranno "
+"sempre mostrate le ultime immagini."
+
+#: settings.php:
+msgid "If it's setted, you enable a progress indicator bar about the image"
+msgstr ""
+"Seleziona se vuoi che sia mostrato un barra con indicatori di progressione "
+"delle immagini."
+
+#: settings.php:
+msgid "If it's setted, you enable an auto zoom whit cursor hover the image"
+msgstr ""
+"Seleziona se vuoi abilitare l'effetto zoom quando si passa il cursore sopra "
+"alle immagini."
+
+#: settings.php:
+msgid "Insert the text you want to show before the date"
+msgstr "Inserisci il testo che vuoi mostrare prima della data"
+
+#: settings.php:
+msgid "Insert the text you want to show before the time"
+msgstr "Inserisci il testo che vuoi mostrare prima dell'orario"
+
+#: settings.php:
+msgid ""
+"Insert the url (example: webcam / frame.jpg) of the image if it is single or "
+"insert the path (example: webcam / camera9 / Frame /) if the images are "
+"multiple"
+msgstr ""
+"Inserisci l'url dove vengono caricate le immagini. se sono immagini singole "
+"con lo stesso nome un esempio è webcam / frame.jpg. Se le immagini sono "
+"multiple allora un esempio è webcam / camera9 / Frame / . Fare attenzione a "
+"'/' finale!"
+
+#: settings.php:
+msgid "Inverts the colors of text and background"
+msgstr "Inverti i colori del testo e dello sfondo"
+
+#: settings.php:
+msgid ""
+"Load Jquery if it is not loaded jet. Jquery is required if you select "
+"BOOTSTRAP on image type."
+msgstr ""
+"Seleziona se usi Bootstrap e la libreria Jquery non viene già caricata da "
+"qualche altro plug-in."
+
+#: settings.php:
+msgid "Multiple"
+msgstr "Multiple"
+
+#: settings.php:
+msgid "No"
+msgstr "No"
+
+#: settings.php:
+msgid "Please, before use do following settings"
+msgstr "Impostare prima dell'uso"
+
+#: settings.php:
+msgid "Rapid"
+msgstr "Rapido"
+
+#: settings.php:
+msgid ""
+"Select how your webcam works for uploading the images. <br>SINGLE: set it if "
+"there is a single image with the same name always. <br>MULTIPLE: set it if "
+"there are multiple images into a folder. <br>RAPID: set it if there are "
+"multiple immages into a folder but you want to show only the last one with a "
+"rapid refresh. With this mode you can publish more modules with different "
+"webcams. <br>BOOTSTRAP: if there are multiple immages into a folder and you "
+"want to show them with a nice fade-in/out effect by Bootstrap."
+msgstr ""
+"Seleziona come la tua webcam funziona e come mostrare le immagini.<br>SINGLE:"
+" seleziona se l'immagine ha sempre lo stesso nome.<br>MULTIPLE: seleziona se "
+"vengono salvate le immagini con nome diverso-<br>RAPID: seleziona se vengono "
+"mostrate immagini con nome diverso ma vuoi mostrare solo l'ultima con un "
+"refresh dell'immagine rapido.<br>BOOTSTRAP: seleziona se vengono salvate le "
+"immagini diverse e tu vuoi visualizzarle con il sistema Bootstrap."
+
+#: settings.php:
+msgid ""
+"Set after how many seconds you want an auto page refresh. Set to 0 if you "
+"don't like it. It's not settable for RAPID."
+msgstr ""
+"Selezione se vuoi un refresh della pagina web dopo x secondi. Metti 0 se non "
+"lo vuoi. Non funziona con RAPIDO."
+
+#: settings.php:
+msgid "Set if you like a CSS image style or not"
+msgstr "Selezione se vuoi dare uno stile grafico alle immagini visualizzate."
+
+#: settings.php:
+msgid "Single"
+msgstr "Singola"
+
+#: settings.php:
+msgid ""
+"The Bootstrap mode uses the Jquery library too and that could create "
+"conflict with other component of your site. <b>This is not a bug.</b> If you "
+"are not be able to fix the conflict, please, don't use Bootstrap mode!"
+msgstr ""
+"Seleziona per caricare Bootstrap se non viene già caricato. Il modo "
+"Bootstrap usa la libreria Jquery e questo può creare conflitti con altri "
+"plugin installati. <b>Non è un bug!</b> Se non sei in grado di risolvere i "
+"conflitti sei pregato di non usare la modalità Bootstrap."
+
+#: settings.php:
+msgid "The time in milliseconds between one image and the next"
+msgstr ""
+"Il tempo in millisecondi che intercorre fra la visualizzazione di "
+"un'immagine e la successiva"
+
+#: settings.php:
+msgid "Webcam viewer settings"
+msgstr "Impostazioni del plugin Webcam viewer"
+
+#: settings.php:
+msgid "Yes"
+msgstr "Si"
